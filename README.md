@@ -200,6 +200,10 @@ The best-performing model is selected based on these evaluation metrics.
 
 ---
 
+## Explanation video
+-->
+https://drive.google.com/file/d/1jTfsMaeElcVQq5pL-Wc58j3p9I7kTt5P/view?usp=drive_link
+
 ## 📌 Key Insights
 
 - Credit Score is one of the strongest indicators of creditworthiness.
