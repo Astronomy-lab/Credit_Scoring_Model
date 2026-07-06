@@ -92,7 +92,7 @@ Credit-Scoring-Model/
 ├── Dataset/
 ├── notebooks/
 ├── images/
-├── credit_scoring_model.ipynb
+├── Model/
 ├── requirements.txt
 └── README.md
 ```
